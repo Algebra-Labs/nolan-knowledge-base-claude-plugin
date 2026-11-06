@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "nolan-knowledge-base": {
+      "type": "http",
+      "url": "https://nolan-api.algebralabs.ai/api/knowledge-base/mcp",
+      "oauth": {
+        "clientId": "6siJmBaBX0lmcagv",
+        "callbackPort": 8386
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "nolan",
+  "description": "Nolan plugins for Claude — connect Claude to your company's curated knowledge.",
+  "owner": {
+    "name": "Algebra Labs",
+    "url": "https://hirenolan.ai"
+  },
+  "plugins": [
+    {
+      "name": "nolan-knowledge-base",
+      "source": "./",
+      "description": "Your company's Nolan knowledge base: search and read its pages, send back what Claude learns, and a skill that teaches Claude to do both unprompted."
+    }
+  ]
+}

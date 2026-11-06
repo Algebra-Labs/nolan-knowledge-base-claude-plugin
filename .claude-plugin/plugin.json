@@ -1,0 +1,12 @@
+{
+  "name": "nolan-knowledge-base",
+  "displayName": "Nolan Knowledge Base",
+  "version": "0.7.6",
+  "description": "Your company's Nolan knowledge base: search and read compiled pages with their cited sources, send back facts Claude learns, and a skill that teaches Claude to do both unprompted. Works in Claude Code, Cowork, and chat.",
+  "author": {
+    "name": "Algebra Labs"
+  },
+  "homepage": "https://hirenolan.ai",
+  "license": "MIT",
+  "keywords": ["knowledge base", "wiki", "company context", "nolan"]
+}
